@@ -1,2 +1,2 @@
 # MuseumOfCandy
-Thisis a static page using bootstrap 
+This is a static page using bootstrap 
